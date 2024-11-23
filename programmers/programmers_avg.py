@@ -26,7 +26,6 @@ def solution2(numbers):
     return answer
 
 
-
 ## 실행을 위한 확인용 코드
 ## 배열
 ## numbers = [89,90,91,92,93,94,95,96,97,98,99]
