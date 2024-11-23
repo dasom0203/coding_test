@@ -12,7 +12,7 @@ def solution(order) :
             
     return answer
 
-## 실행 TEST 해보기 위한 코
+## 실행 TEST 해보기 위한 코드
 order = int(input('정수 입력 : ' ))
 result = solution(order)
 print(result)
